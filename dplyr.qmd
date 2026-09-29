@@ -1,0 +1,12 @@
+---
+title: "introduction to dplyr"
+author: "Laura Sadou"
+format: 
+  revealjs:
+    echo: false
+---
+```{r}
+here::i_am("dyplr-101.Rproj")
+library(here)
+```
+
